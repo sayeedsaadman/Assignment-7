@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah Chen",
+    "picture": "https://randomuser.me/api/portraits/women/44.jpg",
+    "email": "sarah.chen@gmail.com",
+    "days_since_contact": 18,
+    "status": "overdue",
+    "tags": ["college", "close friend"],
+    "bio": "Met in university during freshman orientation. We bonded over late-night study sessions and terrible cafeteria food. Now she's a brilliant UX designer in San Francisco.",
+    "goal": 14,
+    "next_due_date": "2025-06-10"
+  },
+  {
+    "id": 2,
+    "name": "Marcus Johnson",
+    "picture": "https://randomuser.me/api/portraits/men/32.jpg",
+    "email": "marcus.j@outlook.com",
+    "days_since_contact": 5,
+    "status": "on-track",
+    "tags": ["work", "mentor"],
+    "bio": "My first manager at TechCorp who taught me how to navigate the corporate world without losing myself. We grab coffee every couple of weeks.",
+    "goal": 14,
+    "next_due_date": "2025-07-01"
+  },
+  {
+    "id": 3,
+    "name": "Olivia Martinez",
+    "picture": "https://randomuser.me/api/portraits/women/68.jpg",
+    "email": "olivia.m@protonmail.com",
+    "days_since_contact": 11,
+    "status": "almost due",
+    "tags": ["family", "travel"],
+    "bio": "My cousin who lives across the country in Miami. We share a love for travel and have a tradition of visiting a new country together every year.",
+    "goal": 10,
+    "next_due_date": "2025-06-25"
+  },
+  {
+    "id": 4,
+    "name": "Tom Baker",
+    "picture": "https://randomuser.me/api/portraits/men/75.jpg",
+    "email": "tombaker@hey.com",
+    "days_since_contact": 3,
+    "status": "on-track",
+    "tags": ["hobby", "gym"],
+    "bio": "My workout buddy from the local climbing gym. He got me into bouldering two years ago and we now compete in local events together.",
+    "goal": 7,
+    "next_due_date": "2025-06-20"
+  },
+  {
+    "id": 5,
+    "name": "Aisha Patel",
+    "picture": "https://randomuser.me/api/portraits/women/26.jpg",
+    "email": "aisha.patel@gmail.com",
+    "days_since_contact": 30,
+    "status": "overdue",
+    "tags": ["college", "work"],
+    "bio": "We met at a hackathon in 2019 and immediately clicked over our shared obsession with data visualization. She now leads a data science team at a healthcare startup.",
+    "goal": 21,
+    "next_due_date": "2025-05-30"
+  },
+  {
+    "id": 6,
+    "name": "Ryan O'Brien",
+    "picture": "https://randomuser.me/api/portraits/men/54.jpg",
+    "email": "ryan.obrien@icloud.com",
+    "days_since_contact": 8,
+    "status": "almost due",
+    "tags": ["childhood", "close friend"],
+    "bio": "Known him since we were 7 years old. We grew up on the same street and despite living in different cities now, we video call every Sunday.",
+    "goal": 7,
+    "next_due_date": "2025-06-22"
+  },
+  {
+    "id": 7,
+    "name": "Lisa Nakamura",
+    "picture": "https://randomuser.me/api/portraits/women/57.jpg",
+    "email": "lisa.n@gmail.com",
+    "days_since_contact": 45,
+    "status": "overdue",
+    "tags": ["work", "networking"],
+    "bio": "Met at a product conference in NYC. She's a brilliant product strategist and has given me invaluable career advice. I keep meaning to reach out more often.",
+    "goal": 30,
+    "next_due_date": "2025-05-15"
+  },
+  {
+    "id": 8,
+    "name": "David Kim",
+    "picture": "https://randomuser.me/api/portraits/men/28.jpg",
+    "email": "david.kim@gmail.com",
+    "days_since_contact": 2,
+    "status": "on-track",
+    "tags": ["neighbor", "close friend"],
+    "bio": "My neighbor and go-to guy for everything from debugging code to fixing leaky faucets. We have a weekly board game night with a small group.",
+    "goal": 7,
+    "next_due_date": "2025-07-05"
+  }
+]
