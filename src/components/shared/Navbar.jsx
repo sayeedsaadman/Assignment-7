@@ -12,7 +12,7 @@ const Navbar = () => {
     <nav className="bg-white border-b border-gray-100 sticky top-0 z-50">
       <div className="max-w-6xl mx-auto px-4 sm:px-6 flex justify-between items-center h-14">
         <span className="font-serif font-bold text-xl text-gray-900 tracking-tight">
-          KeenKeeper
+          Keen<span className="text-emerald-500">Keeper</span>
         </span>
         <ul className="flex items-center gap-1">
           {navItems.map((item) => (
